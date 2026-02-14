@@ -5,18 +5,18 @@
 ---
 
 ### 👨‍💻 About Me  
-I am a **Java Backend Developer/Full stack developer** with **3.5+ years of experience** in designing, developing, and maintaining scalable enterprise applications.  
-I have hands-on experience working with **Spring Boot**, **Microservices/monolithic**, **PostgreSQL**, and **Angular**, focusing on delivering high-quality and efficient backend solutions.
+I am a **Java Backend Developer/Full stack developer** with **4 years of experience** in designing, developing, and maintaining scalable enterprise applications.  
+I have hands-on experience working with **Spring Boot, Spring data JPA**, **Microservices & monolithic**, **PostgreSQL**, and **Angular, Vue**, focusing on delivering high-quality and efficient backend solutions.
 
 ---
 
 ### ⚙️ Technical Skills  
 - **Languages:** Java, SQL 
-- **Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Angular(basic)  
+- **Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Angular, Vue 3  
 - **Architecture:** Microservices, RESTful APIs, Monolithic  
 - **Database:** PostgreSQL, MySQL, ORACLE 
 - **Tools and Platforms:** Git, Maven, JIRA, IntelliJ IDEA, Postman, Kibana, splunk
-- **Cloud and DevOps:** AWS services(EC2, S3, Secreat Manager), Jenkins & GITLAB CICD  
+- **Cloud and DevOps:** AWS services(S3, Secreat Manager,IAM), Jenkins & GitLab CICD  
 
 ---
 
