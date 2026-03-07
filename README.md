@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj Somwanshi
 
-## 💼 Java Backend Developer/ Full stack developer
+## 💼 Java Backend / Full stack developer
 
 ---
 
@@ -24,18 +24,11 @@ Technologies That I Know👨🏻‍💻
 - **Cloud and DevOps:** AWS services(S3, Secreat Manager,IAM), Jenkins & GitLab CICD  
 
 ---
-
-### 📈 Professional Highlights  
-- Strong understanding of backend design principles and RESTful architecture.  
-- Experienced in integrating services and APIs within distributed systems.  
-- Passionate about performance optimization, clean code, and continuous learning.  
-
----
-
 ### 📫 Connect With Me  
+- 👨‍💻 [Personal Portfolio](https://personal-portfolio-surajsomwanshis-projects.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/suraj-somwanshi)  
 - ✉️ **Email:** surajsomwanshi99.ss@gmail.com 
 
 ---
 
-⭐ *“Strive for clean architecture, reliable code, and continuous improvement.”*
+⭐ *“Strive for clean, reliable code, and continuous improvement.”*
