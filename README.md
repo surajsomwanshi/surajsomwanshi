@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suraj Somwanshi
+# 👋 Hi, I'm Suraj Somwanshi ![Profile Views](https://komarev.com/ghpvc/?username=surajsomwanshi&color=blue)
 
 ## 💼 Java Full stack developer
 
@@ -15,7 +15,7 @@ I have hands-on experience working with **Spring Boot, Spring data JPA**, **Micr
 Technologies That I Know👨🏻‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,vue,angular,ts,maven,mysql,postgres,git,aws,github,gitlab,idea,jenkins,docker,vscode&perline=6)](https://skillicons.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=surajsomwanshi&color=blue)
+
 
 - **Languages:** Java, SQL 
 - **Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Angular, Vue 3  
