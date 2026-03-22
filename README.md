@@ -22,7 +22,7 @@ Technologies That I Know👨🏻‍💻
 - **Architecture:** Microservices, RESTful APIs, Monolithic  
 - **Database:** PostgreSQL, MySQL, ORACLE 
 - **Tools and Platforms:** Git, Maven, JIRA, IntelliJ IDEA, Postman, Kibana, splunk
-- **Cloud and DevOps:** AWS services(S3, Secreat Manager,IAM), Jenkins & GitLab CICD  
+- **Cloud and DevOps:** AWS services(S3, Secreat Manager,IAM), Docker, Jenkins & GitLab CICD  
 
 ---
 ### 📫 Connect With Me  
