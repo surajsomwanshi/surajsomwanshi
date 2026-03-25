@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Suraj Somwanshi ![Profile Views](https://komarev.com/ghpvc/?username=surajsomwanshi&color=blue)
 
-## 💼 Java Full stack developer
+## 💼 Java backend developer
 
 ---
 
 ### 👨‍💻 About Me  
-I am a **Java Backend Developer/Full stack developer** with **4 years of experience** in designing, developing, and maintaining scalable enterprise applications.  
-I have hands-on experience working with **Spring Boot, Spring data JPA**, **Microservices & monolithic**, **PostgreSQL**, and **Angular, Vue**, focusing on delivering high-quality and efficient backend solutions.
+I am a **Java backend developer** with **4 years of experience** in designing, developing, and maintaining scalable enterprise applications.  
+I have hands-on experience working with **Spring Boot, Spring data JPA**, **Microservices & monolithic**, **PostgreSQL**, and **Angular, Vue 3**, focusing on delivering high-quality and efficient backend solutions.
 
 ---
 
@@ -20,7 +20,7 @@ Technologies That I Know👨🏻‍💻
 - **Languages:** Java, SQL 
 - **Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Angular, Vue 3  
 - **Architecture:** Microservices, RESTful APIs, Monolithic  
-- **Database:** PostgreSQL, MySQL, ORACLE 
+- **Database:** PostgreSQL, MySQL
 - **Tools and Platforms:** Git, Maven, JIRA, IntelliJ IDEA, Postman, Kibana, splunk
 - **Cloud and DevOps:** AWS services(S3, Secreat Manager,IAM), Docker, Jenkins & GitLab CICD  
 
