@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Suraj Somwanshi ![Profile Views](https://komarev.com/ghpvc/?username=surajsomwanshi&color=blue)
 
-## 💼 Java backend developer
+## 💼 Backend Engineer
 
 ---
 
 ### 👨‍💻 About Me  
-I am a **Java backend developer** with **4.5 years of experience** in designing, developing, and maintaining scalable enterprise applications.  
+I am a **Backend Engineer** with **4.5 years of experience** in designing, developing, and maintaining scalable enterprise applications.  
 I have hands-on experience working with **Java 8/17/21, Spring Boot, Spring data JPA, Spring MVC**, **Microservices**, **PostgreSQL, Oracle**, and **Angular, Vue JS**, focusing on delivering high-quality and efficient backend solutions.
 
 ---
