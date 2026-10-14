@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suraj Somwanshi ![Profile Views](https://komarev.com/ghpvc/?username=surajsomwanshi&color=blue)
+# 👋 Hi, I'm Suraj Somwanshi 
 
 ## 💼 Java Backend Developer
 
