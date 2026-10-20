@@ -14,7 +14,7 @@ I have hands-on experience working with **Java 8/17/21, Spring Boot, Spring data
 
 Technologies That I Know👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,vue,angular,ts,maven,mysql,postgres,git,aws,github,gitlab,idea,jenkins,docker,Spring,azure,maven,claude,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,vue,angular,ts,maven,mysql,postgres,git,aws,github,gitlab,idea,jenkins,docker,kubernetes,azure,vscode&perline=6)](https://skillicons.dev)
 
 
 - **Languages:** Java, SQL 
