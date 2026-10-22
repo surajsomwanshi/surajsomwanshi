@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj Somwanshi 
 
-## 💼 Java Backend Developer
+## 💼 Java Full Stack Developer
 
 ---
 
